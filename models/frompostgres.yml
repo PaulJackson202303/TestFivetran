@@ -1,0 +1,9 @@
+version: 2
+    
+sources:
+  - name: postgres_hr
+    tables:
+      - name: countries
+      - name: departments
+      - name: employees
+      - name: regions
